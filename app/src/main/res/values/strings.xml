@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">APlantGenius</string>
+    <string name="errorPhoto">Gagal mengambil gambar</string>
+    <string name="errorCamera">Tidak dapat membuka kamera</string>
+    <string name="takePicture">Ambil gambar</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="checkDiseases">Cek Penyakit</string>
+    <string name="textDiseases">Choose your plant picture!</string>
+    <string name="get_started">Get Started</string>
+    <string name="getPermission">Permission didapatkan</string>
+    <string name="noPermission">Tidak mendapatkan Permission</string>
 </resources>
