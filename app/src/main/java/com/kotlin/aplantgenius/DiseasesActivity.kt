@@ -37,6 +37,11 @@ class DiseasesActivity : AppCompatActivity() {
         binding.cameraXButton.setOnClickListener { startCameraX() }
 
         binding.galleryButton.setOnClickListener { startGallery() }
+
+        binding.btnToCheck.setOnClickListener {
+            val intent = Intent(this, CheckActivity::class.java)
+            startActivity(intent)
+        }
     }
 
     override fun onRequestPermissionsResult(
