@@ -1,2 +1,2 @@
 # APlantGenius
-# Repositoru A Plant Genius team Capstone 
+# Repository A Plant Genius team Capstone 
